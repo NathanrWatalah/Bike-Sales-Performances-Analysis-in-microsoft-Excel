@@ -1,4 +1,4 @@
-# 🚴 Bike Sales Performance Dashboard (Pivot Table Analysis)
+#  Bike Sales Performance Dashboard (Pivot Table Analysis)
 
 This project analyzes **bike purchase behavior** using Excel Pivot Tables and an interactive dashboard.  
 The goal is to understand customer demographics, income patterns, and commute distance effects on bike purchases.
